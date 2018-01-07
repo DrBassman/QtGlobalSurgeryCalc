@@ -14,3 +14,7 @@ I developed this application using the following tools:
   * Qt Designer 5.9.0.1.2 (installed using "pip install pyqt5-tools)
 
 This application has been tested on the above system.  It should run on any system that has python, and PyQt5 (i.e. FreeBSD, MacOS, Linux, etc.).
+
+Copyright (C) 2018, Ryan K. Losh.  ALL RIGHTS RESERVED.
+
+Icon copied from http://www.fatcow.com/free-icons.
